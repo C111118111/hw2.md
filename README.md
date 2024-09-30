@@ -23,10 +23,13 @@ gantt
 
 
 ![123](https://github.com/user-attachments/assets/fe6de60f-08c2-43f2-9689-03b99ea96131)
+![image](https://github.com/user-attachments/assets/5a7772f6-bf11-4eee-8b12-731876e56f84)
+關鍵路徑：任務１－任務２－任務４－任務６－任務９－任務１１
 
 
 
 
+```
 
 ```
 ---
