@@ -1,5 +1,5 @@
 ### Mermaid
-```mermaid
+```甘特圖
 gantt
     title A Gantt Diagram
 
