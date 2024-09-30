@@ -19,7 +19,7 @@ gantt
 ```
 ```
 
-![螢幕擷取畫面 2024-09-30 164555](https://github.com/user-attachments/assets/16a707fe-ce3a-4c50-b0a7-1fb784af593b)
+![image](螢幕擷取畫面 2024-09-30 164555.png)
 
 
 
